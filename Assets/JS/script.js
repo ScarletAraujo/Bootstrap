@@ -87,3 +87,10 @@ function mapaNormal(){
   mapa.style.height="250px"
   
 }
+
+.scrollToTop{   
+  position=fixed;
+  top:75px; 
+  right:40px;
+  display:none;
+}
